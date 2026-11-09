@@ -1,0 +1,27 @@
+{
+  "total": "2",
+  "limit": "1000",
+  "start": "0",
+  "data": [
+    {
+      "id": "1377D2C5-6217-411E-98B3-07F75FCA0D3F",
+      "url": "",
+      "title": "Apertura retrasada hoy, 10 de enero debido a mal tiempo",
+      "parkCode": "es-es/cham",
+      "description": "Debido a condiciones del tiempo y riesgos elevados por la mañana, el parque abrirá en retraso a las 9 am el viernes, 10 de enero. Esperamos seguir las horas de atención regulares en el Centro Cultural, pero retrasos o cierres tempranos son posibles.",
+      "category": "Park Closure",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2025-01-10 04:57:48.0"
+    },
+    {
+      "id": "687B5063-8BA1-4940-8245-1AB2AC2BDF0A",
+      "url": "",
+      "title": "Mansion ADA Lift is currently not functional awaiting a replacement",
+      "parkCode": "",
+      "description": "Mansion ADA Lift is currently not functional awaiting a replacement, physical accessibility to the mansion will be limited to those with the ability to climb 3-4 steps into the first floor. We apologize for any inconvenience.",
+      "category": "Information",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2024-06-06 16:09:38.0"
+    }
+  ]
+}

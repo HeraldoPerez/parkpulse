@@ -1,0 +1,161 @@
+{
+  "total": "14",
+  "limit": "50",
+  "start": "0",
+  "data": [
+    {
+      "id": "390127CA-4E8A-4062-B492-CF868E70D960",
+      "url": "",
+      "title": "Cadillac Summit Road closed to all users Nov 9-25 and Dec 1-18",
+      "parkCode": "acad",
+      "description": "Starting Nov 9, construction will resume for an accessible pedestrian path between the East and West parking lots on the summit of Cadillac Mountain. Cadillac Summit Road will be closed to all users (including bicyclists and pedestrians) Nov 9-25 and Dec 1-18. Hiking trails on Cadillac Mountain will remain open. NOTE: Park Loop Road will close to motor vehicles for the season Dec 1, except for access to Jordan Pond via Jordan Pond Road in Seal Harbor, and access to Sand Beach via Schooner Head Road.",
+      "category": "Park Closure",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-11-04 00:00:00.0"
+    },
+    {
+      "id": "BD6EC75E-89ED-4345-BE71-4A2EA5FF186E",
+      "url": "",
+      "title": "INNER CANYON TRAIL CLOSURES",
+      "parkCode": "grca",
+      "description": "Current trail closures: the entire North Kaibab Trail (including Cottonwood Campground), Phantom Ranch, Bright Angel Campground, Silver Bridge, and the Black Bridge. Please do not attempt to access the closed areas.",
+      "category": "Park Closure",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-11-01 00:00:00.0"
+    },
+    {
+      "id": "A14CFF34-4733-46E8-8527-B7A93B4C25CD",
+      "url": "https://www.nps.gov/yell/planyourvisit/parkroads.htm",
+      "title": "Most Park Roads Closed to All Vehicles",
+      "parkCode": "yell",
+      "description": "Most roads are closed to prepare for commercially-guided snowcoach and snowmobile travel during the winter season, which will begin December 15 (weather depending). The road between the North and Northeast entrances is the only road open year-round to regular vehicles.",
+      "category": "Park Closure",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-10-29 00:00:00.0"
+    },
+    {
+      "id": "57EFE369-9186-400A-8F18-0E966993B8A3",
+      "url": "https://www.nps.gov/yell/planyourvisit/parkroads.htm",
+      "title": "Traffic Delays - Gardner River High Bridge",
+      "parkCode": "yell",
+      "description": "Expect a single lane of traffic with up to 15-minute delays, 24 hours a day, seven days a week, from April 1 through November 24, 2026. Oversized/overweight vehicles (8'6\"+ wide, 75'+ long, 80,000 lbs+ gross vehicle weight) will not be able to cross the bridge during this time.",
+      "category": "Information",
+      "relatedRoadEvents": [
+        {
+          "title": "Traffic Delays - Gardner River High Bridge",
+          "id": "57EFE369-9186-400A-8F18-0E966993B8A3",
+          "type": "roadevent",
+          "url": "https://www.nps.gov/yell/planyourvisit/conditions.htm"
+        }
+      ],
+      "lastIndexedDate": "2026-10-29 00:00:00.0"
+    },
+    {
+      "id": "4CC2EC5B-2CAD-44DC-90C1-86856D021228",
+      "url": "https://www.nps.gov/grca/learn/news/grand-canyon-national-park-to-close-overnight-hotel-accommodations-beginning-august-31.htm",
+      "title": "Overnight Lodging Suspended and Parkwide Stage 4 Water Restrictions",
+      "parkCode": "grca",
+      "description": "Grand Canyon National Park has implemented Stage 4 water restrictions on the South Rim due to extensive flash flood damage to the Transcanyon Waterline. Overnight accommodations are suspended, and only dry camping is allowed. The park remains open for day use, with food and beverage services, the Grand Canyon Clinic, and Post Office remaining open. Visitors are asked to bring water with them when visiting the park.",
+      "category": "Caution",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-09-30 00:00:00.0"
+    },
+    {
+      "id": "F8AFCEAD-7E34-4C99-8AF6-C0B7C376C8FB",
+      "url": "",
+      "title": "Eastern Section of Beech Mountain Loop Trail Closed for Repairs",
+      "parkCode": "acad",
+      "description": "Starting Sept 21, the eastern section of the Beech Mountain Loop Trail will be closed for repairs from a junction just beyond the parking lot to just below the summit at the fire tower. Three alternate routes to the summit are available: the outer loop of the Beech Mountain Loop Trail, Beech South Ridge Trail and Beech West Ridge Trail.",
+      "category": "Park Closure",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-09-30 00:00:00.0"
+    },
+    {
+      "id": "CDD9D321-49B3-4C74-89AD-A186807220E6",
+      "url": "",
+      "title": "Watchman Trail closed",
+      "parkCode": "zion",
+      "description": "The Watchman Trail is closed pending repairs.",
+      "category": "Park Closure",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-09-29 00:00:00.0"
+    },
+    {
+      "id": "83AE2DD9-F167-445F-8B00-A4F9E5A993D8",
+      "url": "https://www.nps.gov/zion/planyourvisit/large-vehicles.htm",
+      "title": "Large vehicle restrictions on Zion-Mt. Carmel Highway",
+      "parkCode": "zion",
+      "description": "Vehicles that exceed length, width, height, or weight limits cannot travel between Canyon Junction and the park's East Entrance. See the current limits on the page linked below.",
+      "category": "Caution",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-09-16 00:00:00.0"
+    },
+    {
+      "id": "09699C7F-F2CD-4BE9-B8D4-5E19CC89BE7A",
+      "url": "https://www.nps.gov/zion/planyourvisit/toxic-cyanobacteria-bloom-in-the-virgin-river-and-the-streams-of-zion-national-park.htm",
+      "title": "Toxic cyanobacteria in rivers, streams, and pools",
+      "parkCode": "zion",
+      "description": "Do not submerge your head in or drink instream water in Zion National Park.",
+      "category": "Caution",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-09-16 00:00:00.0"
+    },
+    {
+      "id": "F093B239-D138-4B04-BDFE-745A41F17B04",
+      "url": "https://www.nps.gov/zion/planyourvisit/angels-landing-hiking-permits.htm",
+      "title": "Angels Landing Pilot Permit Program",
+      "parkCode": "zion",
+      "description": "All hikers need a permit to hike Angels Landing. Learn why you need a permit and how to get one using the link below.",
+      "category": "Information",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-09-16 00:00:00.0"
+    },
+    {
+      "id": "0EA570B2-2FF0-4B33-AD3A-1313385965A0",
+      "url": "https://www.nps.gov/zion/planyourvisit/traffic.htm#parking",
+      "title": "Please park legally and responsibly",
+      "parkCode": "zion",
+      "description": "Zion has limited parking. Once parking spaces in Zion are full, visitors should park in Springdale. Please park only in designated spaces. Vehicles parked outside of designated spaces are subject to citation and towing.",
+      "category": "Information",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-09-16 00:00:00.0"
+    },
+    {
+      "id": "608538F9-D5D1-4AD4-BD95-6BB351146EDC",
+      "url": "https://www.nps.gov/grca/planyourvisit/key-messages.htm",
+      "title": "INNER CANYON WATER SHUTOFFS",
+      "parkCode": "grca",
+      "description": "Beginning Sep. 6, no potable water will be available in the inner canyon, including along the Bright Angel Trail (1.5 Mile Resthouse, 3-Mile Resthouse, Havasupai Gardens day use and campground). All backpackers and hikers should carry water filtration and treatment OR carry all water with them.",
+      "category": "Danger",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-09-11 00:00:00.0"
+    },
+    {
+      "id": "75EAC129-65A2-4CDA-B29C-413502DD3A35",
+      "url": "https://www.nps.gov/yell/images/Biscuit_Basin_Closure_Map_20250529_1.png",
+      "title": "Biscuit Basin Closed Due to Hydrothermal Explosion",
+      "parkCode": "yell",
+      "description": "The parking lot, boardwalk, and Firehole River at Biscuit Basin, located north of Old Faithful, is closed to all travel until further notice due to the possibility of another event at the site of a hydrothermal explosion that occurred July 23, 2024.",
+      "category": "Park Closure",
+      "relatedRoadEvents": [
+        {
+          "title": "Biscuit Basin Closed Due to Hydrothermal Explosion",
+          "id": "75EAC129-65A2-4CDA-B29C-413502DD3A35",
+          "type": "roadevent",
+          "url": "https://www.nps.gov/yell/planyourvisit/conditions.htm"
+        }
+      ],
+      "lastIndexedDate": "2026-07-01 00:00:00.0"
+    },
+    {
+      "id": "2CF15EBC-0800-4DF3-8179-B1579B6D4F57",
+      "url": "https://www.nps.gov/grca/planyourvisit/key-messages.htm",
+      "title": "Critical Backcountry Updates/Closures",
+      "parkCode": "grca",
+      "description": "Visit this link for the inner canyon weather forecast, current trail closures, today's heat risk, and drinking water availability.",
+      "category": "Caution",
+      "relatedRoadEvents": [],
+      "lastIndexedDate": "2026-06-26 00:00:00.0"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "API_KEY_INVALID",
+    "message": "Your API key is not valid. Please get a new one at https://www.nps.gov/subjects/developer/get-started.htm"
+  }
+}
