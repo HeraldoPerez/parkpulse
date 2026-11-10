@@ -1,6 +1,6 @@
 # ParkPulse
 
-[![CI](https://github.com/Khalick/parkpulse/actions/workflows/ci.yml/badge.svg)](https://github.com/Khalick/parkpulse/actions/workflows/ci.yml)
+[![CI](https://github.com/Khalick/parkpulse/actions/workflows/ci.yml/badge.svg)]
 
 One page with the current alerts and closures for the national parks you're planning to visit.
 
@@ -33,8 +33,7 @@ browser ──/api──▶ ParkPulse server (Express) ──X-Api-Key──▶ 
 You need [Node.js](https://nodejs.org) 22.22 or newer and a free NPS API key from https://www.nps.gov/subjects/developer/get-started.htm. To try it before signing up, `DEMO_KEY` works, but only for about 10 requests an hour.
 
 ```bash
-git clone https://github.com/Khalick/parkpulse.git
-cd parkpulse
+
 npm install
 cp .env.example .env   # then put your key in .env
 
